@@ -102,12 +102,12 @@
 
 # 十万哥的现场
   
-![1](https://github.com/liuyuansharp/shiwan_pics/blob/main/1.jpg?raw=true#pic_center =300x600)
-![2](https://github.com/liuyuansharp/shiwan_pics/blob/main/2.jpg?raw=true#pic_center =300x600)
-![3](https://github.com/liuyuansharp/shiwan_pics/blob/main/3.jpg?raw=true#pic_center =300x600)
-![4](https://github.com/liuyuansharp/shiwan_pics/blob/main/4.jpg?raw=true#pic_center =300x600)
-![5](https://github.com/liuyuansharp/shiwan_pics/blob/main/5.jpg?raw=true#pic_center =300x600)
-![6](https://github.com/liuyuansharp/shiwan_pics/blob/main/6.jpg?raw=true#pic_center =300x600)
+![1](https://github.com/liuyuansharp/shiwan_pics/blob/main/1.jpg?raw=true =300x600)
+![2](https://github.com/liuyuansharp/shiwan_pics/blob/main/2.jpg?raw=true =300x600)
+![3](https://github.com/liuyuansharp/shiwan_pics/blob/main/3.jpg?raw=true =300x600)
+![4](https://github.com/liuyuansharp/shiwan_pics/blob/main/4.jpg?raw=true =300x600)
+![5](https://github.com/liuyuansharp/shiwan_pics/blob/main/5.jpg?raw=true =300x600)
+![6](https://github.com/liuyuansharp/shiwan_pics/blob/main/6.jpg?raw=true =300x600)
 ![7](https://github.com/liuyuansharp/shiwan_pics/blob/main/7.jpg?raw=true)
 ![8](https://github.com/liuyuansharp/shiwan_pics/blob/main/8.jpg?raw=true)
 ![9](https://github.com/liuyuansharp/shiwan_pics/blob/main/9.jpg?raw=true)
