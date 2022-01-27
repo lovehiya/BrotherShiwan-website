@@ -107,7 +107,7 @@
 <img src="https://github.com/liuyuansharp/shiwan_pics/blob/main/3.jpg?raw=true" width = "300" height = "600" alt="1" align=center>
 <img src="https://github.com/liuyuansharp/shiwan_pics/blob/main/4.jpg?raw=true" width = "300" height = "600" alt="1" align=center>
 <img src="https://github.com/liuyuansharp/shiwan_pics/blob/main/5.jpg?raw=true" width = "300" height = "600" alt="1" align=center>
-<img src="https://github.com/liuyuansharp/shiwan_pics/blob/main/6.jpg?raw=true" width = "400" height = "600" alt="1" align=center>
+<img src="https://github.com/liuyuansharp/shiwan_pics/blob/main/6.jpg?raw=true" width = "500" height = "600" alt="1" align=center>
 <img src="https://github.com/liuyuansharp/shiwan_pics/blob/main/7.jpg?raw=true" width = "300" height = "600" alt="1" align=center>
 <img src="https://github.com/liuyuansharp/shiwan_pics/blob/main/8.jpg?raw=true" width = "300" height = "600" alt="1" align=center>
 <img src="https://github.com/liuyuansharp/shiwan_pics/blob/main/9.jpg?raw=true" width = "300" height = "600" alt="1" align=center>
