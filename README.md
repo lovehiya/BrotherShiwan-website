@@ -119,7 +119,6 @@
 <img src="https://github.com/liuyuansharp/shiwan_pics/blob/main/15.jpg?raw=true" width = "300" height = "600" alt="1" align=center>
 <img src="https://github.com/liuyuansharp/shiwan_pics/blob/main/16.jpg?raw=true" width = "300" height = "600" alt="1" align=center>
 <img src="https://github.com/liuyuansharp/shiwan_pics/blob/main/17.jpg?raw=true" width = "300" height = "600" alt="1" align=center>
-<img src="https://github.com/liuyuansharp/shiwan_pics/blob/main/18.jpg?raw=true" width = "300" height = "600" alt="1" align=center>
 
 # 社区留言
 
