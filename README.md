@@ -1,3 +1,10 @@
+# Introduction
+Brother Shiwan is a Chia meme coin issued to commemorate a legendary figure named Shiwan Brother in Chinese Chia Community (Shiwan means $100K in Chinese ). Brother Shiwan persistently believes that XCH will one day to be $100K! He posted his views on various social platforms in China and never changed his mind even he was ridiculed by others. One day, he suddenly disappeared without leaving a trace. Since then, people talk about Brother Shiwan and miss him. In order to commemorate Brother Shiwan, Chia farmers in community spontaneously begin to collect the speeches and deeds of Brother Shiwan. Finally, Brother Shiwan becomes the symbol of "The Firm Faith of Chia".
+
+To know more about the story, please visit our site: www.brothershiwan.com. We even issued a CAT for Brother Shiwan. CAT Name : Brother Shiwan Token Name : BSH Issued by : Brother Shiwan Committee Our Slogan: "Chia will to the Moon and XCH will be $100K!"
+
+BSH plans to issue 10 billion in multiple batches. The first batch issued 100 million plus 900 million. After that, it will be issued successively until it reaches 10 billion.
+
 # 背景
 
 “Brother Shiwan”是为了纪念中文奇亚社区的一位传奇人物【十万哥】而发行的奇亚meme币。十万哥始终坚信，奇亚有朝一日，定上10万美金！为此，十万哥总结出来了一套投资哲学，在各个群里布道传教。然而，这套理论却不被当时的人们所理解和接受，以至于有一天，十万哥从各个群组里消失了！
