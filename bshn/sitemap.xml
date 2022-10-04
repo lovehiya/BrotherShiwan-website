@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+    <url>
+         <loc>Noneindex.html</loc>
+         <lastmod>2022-10-04</lastmod>
+         <changefreq>daily</changefreq>
+         <xhtml:link rel="alternate" hreflang="zh" href="Nonezh/index.html"/>
+         <xhtml:link rel="alternate" hreflang="en" href="Noneen/index.html"/>
+         
+    </url>
+    <url>
+         <loc>Nonebuy.html</loc>
+         <lastmod>2022-10-04</lastmod>
+         <changefreq>daily</changefreq>
+         <xhtml:link rel="alternate" hreflang="zh" href="Nonezh/buy.html"/>
+         <xhtml:link rel="alternate" hreflang="en" href="Noneen/buy.html"/>
+         
+    </url>
+    <url>
+         <loc>Nonewhitepaper.html</loc>
+         <lastmod>2022-10-04</lastmod>
+         <changefreq>daily</changefreq>
+         <xhtml:link rel="alternate" hreflang="zh" href="Nonezh/whitepaper.html"/>
+         <xhtml:link rel="alternate" hreflang="en" href="Noneen/whitepaper.html"/>
+         
+    </url>
+</urlset>
