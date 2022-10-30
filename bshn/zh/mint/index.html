@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<meta charset="utf-8">
+	<link rel="icon" href="../img/favicon.ico">
+	<meta name="viewport" content="width=device-width, initial-scale=1">
+	<title>loading...</title>
+	<link rel="stylesheet" type="text/css" href="css/index.css">
+</head>
+<body>
+	<!-- <bgimg></bgimg> -->
+	<div id="mint-box">
+		<div id="mint-lang"><span class="mint-lang-sw" data-lang="en">English</span> · <span class="mint-lang-sw" data-lang="zh-CN">中文（简体）</span></div>
+		<div id="mint-title" data-i18n="name"></div>
+		<div id="mint-mint" data-i18n="tip_mint"></div>
+		<div id="mint-addr"></div>
+		<div id="mint-pay" data-i18n="tip_pay"></div>
+		<div id="mint-btn">
+			<div id="mint-price">
+				<input class="mint-amount" id="mint-amount" type="number" name="" placeholder="amount"> BSH <img src="img/bsh.png"> ==> <input class="mint-amount" id="mint-amount-bshn" type="number" name="" value="1" step="1" placeholder="amount"> BSHN <img src="img/bshn.webp">
+			</div>
+			<button class="mint-wallet mint-goby" id="mint-goby">
+				<img class="mint-goby" src="img/goby.svg">
+				<span class="mint-goby" data-i18n="pay_connect"></span>
+			</button>
+			<button class="mint-wallet mint-pawket" id="mint-pawket">
+				<img class="mint-pawket" src="img/pawket.png">
+				<span class="mint-pawket" data-i18n="pay_connect"></span>
+			</button>
+		</div>
+		<div id="mint-tip">
+			<div id="mint-message"></div>
+			<div><span data-i18n="tip_price"></span><span id="mint-price-bold"> <span id="mint-currentprice"></span> BSH</span>.</div>
+		</div>
+		<div id="mint-bottom">
+			<a href="https://brothershiwan.com/bshn/" target="_blank">About BSHN</a> · <a href="https://brothershiwan.com/" target="_blank">BSH Community</a> · <a href="https://www.chia.net/" target="_blank">Chia Network</a>
+		</div>
+	</div>
+	<script type="text/javascript" src="js/index.js"></script>
+</body>
+</html>
